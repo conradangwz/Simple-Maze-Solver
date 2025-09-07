@@ -4,11 +4,19 @@ Solver.java and SolverExtended.java - Solver.java is the basic design, while Sol
 
 # Build and Execute Instructions
 To compile:
-javac Solver.java
+    ```text
+    javac Solver.java
+    ```
 alternatively:
-javac SolverExtended.java
+    ```text
+    javac SolverExtended.java
+    ```
 
 To Execute:
-java Solver
+    ```text
+    java Solver
+    ```
 alternatively:
-java SolverExtended
+    ```text
+    java SolverExtended
+    ```
